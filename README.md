@@ -1,2 +1,2 @@
-# trinton_demo
-trinton_server_demo
+# triton_demo
+this is a simple triton_server_demo
